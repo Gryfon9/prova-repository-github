@@ -13,11 +13,11 @@ public class JavaApplication3 {
 
     /**
 
-     PEDERAFTA!?
+     PEDERAFTA?
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
     }
     trotta è molto gayyyyyy
-}
+}e sa di esserlo
